@@ -4,7 +4,7 @@ permalink:           pretty
 # Setup
 title:               Khawlah A. Alarfaj
 tagline:             A Data Science Blog
-url:                 http://Khawlah-Ahmed.github.io
+url:                 http://emj8.github.io
 paginate:            2
 baseurl:             ""
 
@@ -24,7 +24,7 @@ author:
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/Khawlah-Ahmed
+  repo:              https://github.com/emj8
 
 # Gems
 gems:
