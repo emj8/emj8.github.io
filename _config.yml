@@ -1,0 +1,38 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Khawlah A. Alarfaj
+tagline:             A Data Science Blog
+url:                 http://Khawlah-Ahmed.github.io
+paginate:            2
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Khawlah Alarfaj
+  url:               https://twitter.com/Khawla_Alarfaj
+  email:             khawla.a515@gmail.com
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/Khawlah-Ahmed
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+# Page List
+pages_list: 
+  Home: '/index.html'
+  Blogs: '/archive'  
+  About: '/about'
